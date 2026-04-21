@@ -217,6 +217,9 @@ export default function Home() {
               <Button variant="contained" href="#contacto" endIcon={<CallMadeRoundedIcon />}>
                 Agenda una llamada
               </Button>
+              <Button variant="outlined" href="/v2" color="inherit">
+                Ver V2
+              </Button>
             </Stack>
 
             <IconButton
